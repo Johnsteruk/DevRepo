@@ -1,0 +1,2 @@
+clear
+./carla.py
