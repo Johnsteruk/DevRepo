@@ -11,6 +11,10 @@ channel_club = Restaurant('the channel club', 'steak and seafood')
 channel_club.describe_restaurant()
 channel_club.open_restaurant()
 
+print(f"Number of people served : {channel_club.number_served}")
+channel_club.increment_number_served(10)
+print(f"Number of people served : {channel_club.number_served}")
+
 
 #9-11. Imported Admin: Start with your work from Exercise 9-8 (page 173).
 #Store the classes User , Privileges , and Admin in one module. Create a sepa-
