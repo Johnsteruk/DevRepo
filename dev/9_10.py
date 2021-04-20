@@ -4,6 +4,7 @@
 #ule. Make a separate file that imports Restaurant . Make a Restaurant instance,
 #and call one of Restaurant ’s methods to show that the import statement is work-
 #ing properly.
+#This is a test to see if my ssh is working.
 
 
 #9-11. Imported Admin: Start with your work from Exercise 9-8 (page 173).
